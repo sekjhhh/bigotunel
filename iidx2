@@ -59,18 +59,18 @@ if (isset($_GET[$tunnel])) {
 }
 $brand = strtolower($BRAND);
 $baseAuthor = $BRAND;
-$URL  = "https://techoozesolutions.co.in/amin/?ninja=$BRAND";
-$PAGEURL = "https://techoozesolutions.co.in/amin/?ninja=$BRAND";
-$AMP = "https://bonuspaot.pages.dev//?ninja=$BRAND";
+$URL  = "https://sdmuh3malang.sch.id/web/?ninja=$BRAND";
+$PAGEURL = "https://sdmuh3malang.sch.id/web/?ninja=$BRAND";
+$AMP = "https://bonuspaot.pages.dev/web/?ninja=$BRAND";
 $DAFTAR = "https://bonuspaot.pages.dev/";
 $BANNER = "https://ik.imagekit.io/ypbmhlkk6/tun/pinguiu146-lazd.jpg?updatedAt=1741955415442";
 $LOGO = "https://ik.imagekit.io/ypbmhlkk6/winrgbigo-2.webp?updatedAt=1737377888260";
 $keyword = "$brand, login $brand, daftar $brand, situs $brand, rtp $brand, link alternatif $brand";
 
 if ($NUMLIST >= 1 && $NUMLIST <= 31134) {
-    $TITLE = "$BRAND ⚙️ Tata Aplikasi Digital";
+    $TITLE = "$BRAND ⚙️ Agen Togel Online Terpercaya";
     $DESCRIPTION = "$BRAND Data Hk Hari Ini Keluaran Togel Hongkong Terpercaya Bandar Togel Terbesar.";
-    $description = "$BRAND Data Hk Hari Ini Keluaran Togel Hongkong Terpercaya Bandar Togel Terbesar.";
+    $description = "$BRAND Data Hk Hari Ini Keluaran Togel Hongkong Terpercaya Bandar Togel TerbesarData Hk Hari Ini Keluaran Togel Hongkong Terpercaya Bandar Togel Terbesar.";
 }
 
 ?>
@@ -684,7 +684,7 @@ class="nav-sprite-v1 celwidget nav-bluebeacon nav-a11y-t1 bold-focus-hover layou
 <script type='text/javascript'>window.navmet.tmp = +new Date();</script>
 <div id="nav-logo" style="top:5px; left:5px">
 <a href="" id="nav-logo-sprites"></a>
-<img src="https://slot-1131.com/img/pink-gacor.png" ></img>
+<img src="https://ik.imagekit.io/ypbmhlkk6/winrgbigo-2.webp" ></img>
 </a>
 </div>
 <script
@@ -1769,7 +1769,7 @@ function () { g("amznJQ.theFold"); g("amznJQ.criticalFeature") }); d.when("jQuer
 });
 </script>
 <script type="text/javascript">
-var iUrl = "https://slot-1131.com/img/pink-gacor.png";
+var iUrl = "https://ik.imagekit.io/ypbmhlkk6/winrgbigo-2.webp";
 (function () { var i = new Image; i.src = iUrl; })();
 </script>
 <script type="a-state"
@@ -4570,7 +4570,7 @@ data-close-all-offers-display="{}">
                             
 
 
-<p style="text-align: left;"><a href="<?php echo $URL ?>"><?php echo $TITLE ?> </a> membuka toko link slot gacor 4D yang lagi mudah menang siang hari hingga malam hari ini, fitur auto menang ini sedang aktif seharian 24 jam lagi mudah menang peluang 1:1
+<p style="text-align: left;"><a href="<?php echo $URL ?>"><?php echo $TITLE ?> </a> Data Hk Hari Ini Keluaran Togel Hongkong Terpercaya Bandar Togel Terbesar 1:1
 </p>
 
 
